@@ -1,0 +1,13 @@
+AK-47's Artwork Collection
+
+St. Elmo's Bushfire
+ - Wallpaper: St. Elmo's Bushfire.png
+ - Thumbnail: St. Elmo's Bushfire.jpg
+ - Copyright (C) 2021-2023 by AK-47
+
+All artwork in this repository is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0):
+
+License information:
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/legalcode
